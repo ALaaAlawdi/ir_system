@@ -1,0 +1,4 @@
+The third document is here. 
+It has a mix of punctuation marks, such as commas, periods, and exclamation marks!
+After normalization, all letters will be lowercase, and punctuation will be removed.
+Stemming will reduce words like "running" to "run".

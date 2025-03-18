@@ -1,0 +1,4 @@
+This is the second document in the corpus.
+It includes more words and sentences for analysis.
+Tokenization will split the text into individual words.
+Stopwords like "is", "the", and "in" should be removed.

@@ -1,0 +1,4 @@
+The fifth and final document is ready.
+It includes numbers like 123 and symbols like @#$, which should be removed.
+The focus is on text processing: tokenization, normalization, and stemming.
+This will help build the term-document matrix.

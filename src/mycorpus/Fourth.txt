@@ -1,0 +1,4 @@
+This is the fourth file in the myCorpus folder.
+It contains words like "jumping", "swimming", and "playing".
+After stemming, these words will become "jump", "swim", and "play".
+The system should handle stopwords and punctuation correctly.

@@ -1,0 +1,4 @@
+Hello! This is the first document. 
+It contains some basic text for testing the information retrieval system.
+We will use this document to build the index.
+The goal is to tokenize, normalize, and stem the words.
